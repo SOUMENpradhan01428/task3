@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{margin-top: 0cm;
+/* margin-left: 3cm;
+margin-right: 3cm; */
+/* background-color:#454545; */
+
+}
+
+  
+
+
+.back{background-color:rgba(0, 0, 0, 0.719);
+position: sticky;}
+
+.flex{display: flex;
+align-items: center;
+color: aliceblue;}
+h3{font-size: 2.23rem;}
+
+
+.HOVER-LINKS{color: aliceblue;}
+
+
+
+
+.container{max-width: 1180px;
+margin-inline: auto;
+}
+.main-nav{
+    margin-top: 20px;
+    justify-content: space-between;}
+
+
+ul{list-style: none;
+}
+
+
+.nav-link ul{justify-content: end;
+gap: 40px;}
+
+
+
+
+.section1{
+    height: 200px;
+    
+    background-image:url(app.jpg );
+    background-repeat: no-repeat;
+    background-size: 1580px;
+     
+
+
+}
+
+
+
+.section2{
+    height: 400px;
+    margin: 2px;
+    display: flex;
+    /* gap: 30px; */
+    flex-flow: row;
+    /* column-gap: 50px; */
+    justify-content: space-between;
+    background-color: aqua;
+}
+
+.Research{margin: 4px;}
+.Planning{margin: 4px;}
+.Support{}
+
+
+
+
+
+.section3{
+    height: 400px;
+    
+    
+    display: flex;
+   flex-flow: row; 
+   /* column-gap:40px; */
+
+justify-content: space-between;
+background-color: hsl(240, 75%, 75%);
+}
+
+
+
+.Work_team{}
+
+
+.Services{}
+
+
+.Contact{}
+
+.footer{display: flex;
+height: 250px;
+/* column-gap: 200px; */
+flex-flow: row;
+
+justify-content: space-between;
+background-color: #c0c0c0;
+}
+
+.ADVICE{}
+.COMPANY{}
+
+.MEMBERS{}
+
+h2{text-align: center;}
+h1{text-align: center;
+font-size: 5rem;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+p{text-align: center;}
+h4{text-align: end;
+font-size: 1.03rem;}
+
+
+
